@@ -21,8 +21,7 @@ J:\Internship vs\Robot\bin\Debug\Robot.exe
 J:\Internship vs\Robot\bin\Debug\Robot.pdb
 J:\Internship vs\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
 J:\Internship\Robot\bin\Debug\Robot.exe.config
-J:\Internship\Robot\obj\Debug\Robot.exe
-J:\Internship\Robot\obj\Debug\Robot.pdb
 J:\Internship\Robot\bin\Debug\Robot.exe
 J:\Internship\Robot\bin\Debug\Robot.pdb
-J:\Internship\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+J:\Internship\Robot\obj\Debug\Robot.exe
+J:\Internship\Robot\obj\Debug\Robot.pdb
