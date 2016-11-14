@@ -25,3 +25,4 @@ J:\Internship\Robot\bin\Debug\Robot.exe
 J:\Internship\Robot\bin\Debug\Robot.pdb
 J:\Internship\Robot\obj\Debug\Robot.exe
 J:\Internship\Robot\obj\Debug\Robot.pdb
+J:\Internship\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
