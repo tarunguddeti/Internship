@@ -130,18 +130,6 @@ namespace Robot
         public void change_direction(String d)
         {
             int dir;
-            /*while (true)
-            {
-                Console.WriteLine("\nEnter 0 to turn left\n");
-                Console.WriteLine("Enter 1 to turn right\n");
-                dir = Convert.ToInt32(Console.ReadLine());
-                
-                if (dir == 0 || dir == 1)
-                    break;
-                else
-                Console.WriteLine("\nplease enter valid option 0 -to turn left or 1 -to turn right\n");
-                continue;
-            }*/
             if (direction == NORTH)
             {
                 if (d.Equals("LEFT"))
@@ -294,16 +282,19 @@ namespace Robot
                         r.change_direction(words[0]);
                         //r.display();
                     }
+                    if (words[0].Equals("REPORT"))
+                    {
+                        r.report();
+                        Console.ReadLine();
+                        Environment.Exit(0);
+                    }
+
                 }
 
                 else
                     Console.WriteLine("COMMAND DISCARDED NOT A VALID COMMAND !");
                 
-                if (words[0].Equals("REPORT"))
-                {
-                    Environment.Exit(0);
-                }
-            }
+                           }
             
           
          
